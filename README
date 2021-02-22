@@ -1,4 +1,8 @@
 Clusters from MD simulations of Acyl-AcpP with chain lengths from holo-AcpP to C18-AcpP. 
+
+Each folder contains 5 replicates of 500 ns. Each replicate clustered into 5 conformations (rep 0 is most occupied cluster)
  
 If using these structures in your research, please cite:
 
+Sztain, T., Bartholow, T.G., Lee, D.J., Casalino, L., Mitchell, A., Young, M., Wang, J., McCammon
+J.A., Burkart, M.D. Decoding allosteric regulation by the acyl carrier protein. PNAS. (2021).
